@@ -469,6 +469,14 @@ b.max-bold {
   opacity: 1;
 }
 
+.p-title {
+  width: 100%;
+  text-align: center;
+  color: white;
+  background: #ffa804;
+  margin-bottom: 0.5em;
+}
+
 .text {
   background-color: #4caf50;
   color: white;
